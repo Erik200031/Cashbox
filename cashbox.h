@@ -1,6 +1,6 @@
 #pragma once
-#ifndef TEMPERATURE_H_
-#define TEMPERATURE_H_
+#ifndef CASHBOX_H_
+#define CASHBOX_H_
 
 //class declaration
 class Cashbox
@@ -18,4 +18,4 @@ class Cashbox
   double counter_for_add,counter_for_out;
 };
 
-#endif //TEMPERATURE_H_
+#endif //CASHBOX_H_
